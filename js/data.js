@@ -1,5 +1,5 @@
 /* ============================================================
-   SFFR — Site Data
+   SFF Hub — Site Data
    All franchise, media, and news data used across the site.
    ============================================================ */
 

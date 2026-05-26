@@ -1,5 +1,5 @@
 /* ============================================================
-   SFFR — Shared Components (Nav + Footer)
+   SFF Hub — Shared Components (Nav + Footer)
    Injects consistent nav/footer into every page.
    body[data-depth="0"] = root (index, about, search, etc.)
    body[data-depth="1"] = subdirectory (franchise/, media/, item/)
@@ -14,7 +14,7 @@
 <nav class="nav" id="site-nav">
   <div class="nav__inner">
     <a href="${root}index.html" class="nav__logo">
-      <span>SFFR</span> — Fandom Registry
+      <span>SFF</span> Hub
     </a>
     <div class="nav__links" id="nav-links">
       <a href="${root}index.html"              class="nav__link">Home</a>
@@ -49,7 +49,7 @@
 
       <!-- Col 1: Brand -->
       <div>
-        <p class="footer__brand-name"><span>SFFR</span> — Sci-Fi &amp; Fantasy Fandom Registry</p>
+        <p class="footer__brand-name"><span>SFF</span> Hub — Sci-Fi &amp; Fantasy Hub</p>
         <p class="footer__brand-summary">
           The definitive database of movies, TV shows, comics, books, games, and collectibles
           tied to your favorite sci-fi and fantasy universes.
@@ -104,7 +104,7 @@
 
     </div>
     <div class="footer__bottom">
-      <span>&copy; 2026 Sci-Fi &amp; Fantasy Fandom Registry. All rights reserved.</span>
+      <span>&copy; 2026 Sci-Fi &amp; Fantasy Hub. All rights reserved.</span>
       <span>Built for collectors &amp; fans.</span>
     </div>
   </div>

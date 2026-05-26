@@ -1,5 +1,5 @@
 /* ============================================================
-   SFFR — Main JavaScript
+   SFF Hub — Main JavaScript
    Hero gallery, carousels, search, tabs, timelines
    ============================================================ */
 
